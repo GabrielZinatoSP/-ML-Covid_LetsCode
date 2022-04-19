@@ -1,4 +1,4 @@
-# Let's Code Academy - Machine Learning Module - Classification with COVID Data
+# Let's Code Academy - Machine Learning - Classification with COVID Data
 (Data Science Degree - [Let's Code](https://letscode.com.br/))
 
 ## Introduction
