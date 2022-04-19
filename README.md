@@ -53,8 +53,18 @@ Some considerations:
 - A more logic way to deal with this problem would be to predict whether a patient needs to be hospitalized, sent to the ICU or intubed using the result of the test as one of the features. This could be an interesting result to help deal with the pandemic in a more efficient manner.
 - In case we really want to predict the result of the test, the selection of features we use for this purpose has to be reconsidered. We could use the oxygen level of the patients and other features related to COVID symptoms.
 
+## Files
 
+[Dataset in CSV format](https://github.com/GabrielZinatoSP/-ML-Covid_LetsCode/blob/Master/Dataset.zip)
 
+[Python Notebook](https://github.com/GabrielZinatoSP/-ML-Covid_LetsCode/blob/Master/ML_Project_Covid-Lets_Code_Academy-Gabriel_Zinato_Rosa.ipynb)
+
+[HMTL version of the notebook](https://github.com/GabrielZinatoSP/-ML-Covid_LetsCode/blob/Master/ML_Project_Covid-Lets_Code_Academy-Gabriel_Zinato_Rosa.html)
+The interactive charts from Plotly and Optuna work on the browser in this version (you have to download it, unfortunately).
+
+_______
+
+Thank you for reading! I'm open to any criticism or tips that may help me learn.
 
 
 
