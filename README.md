@@ -44,6 +44,15 @@ This project was developed following these steps:
 - Optimization: Using Cross Validation, techniques to ensure the data is well balanced (Undersampling, Oversampling and SMOTE) and tuning of hyperparameters with Optuna, I tried to make the model perform as better as possible.
 
 ## Conclusions
+The final evaluation metrics were:
+
+| Metrics       | Values
+| :-----------: | :----: |
+| Accuracy  	| 0.5691 |	
+| Precision 	| 0.5695 |	
+| Recall    	| 0.5786 |	
+| F1-Score  	| 0.5740 |	
+| AUC       	| 0.5690 |	
 
 Different models and optimization techniques were used in order to obtain the best possible result (best Recall, specially) with the available data for the problem at hands. Still, the result is far from satisfactory, since the evaluation metrics are still low, and it wouldn't be a good idea to use this model in production. Despite this, it was interesting to practice the techniques used.
 
